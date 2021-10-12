@@ -1,7 +1,7 @@
 # Setup
-title: Hi! Eunsunny's Blog
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Eunsunny's Blog
+description: Welcome to Eunsunny blogs / 你好👋， 我是成恩仙还有这是我的博客。请多多关照。/ 안녕하세요! 성은선의 블로그입니다!
+url: https://eunsunny.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -33,10 +33,9 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: EunSeon Seong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/eunsunny
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: EunSeon Seong
+  url: https://github.com/eunsunny/
+  email: click1904@naver.com
